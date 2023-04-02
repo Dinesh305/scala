@@ -4,8 +4,6 @@ import org.apache.spark.sql.functions._
 import org.slf4j.LoggerFactory
 
 
-
-
 object FutureXSparkTransformer {
 
   private val logger = LoggerFactory.getLogger(getClass.getName)
